@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/particles.dir/particles.c.o CMakeFiles/particles.dir/__/deps/tinycthread.c.o CMakeFiles/particles.dir/__/deps/getopt.c.o  -o particles -rdynamic ../src/libglfw.so.3.1 -lGLU -lGL -lm -lpthread -lrt -lX11 -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -lm -lpthread -lrt -Wl,-rpath,/home/jagunlee/Downloads/toinsson/pyrealsense/glfw-3.1.1/src 
